@@ -13,6 +13,7 @@ monster::monster()
     monsterHeight = 32;
     monsterType = 1;
     changeDir = false;
+// Test
 
 }
 
